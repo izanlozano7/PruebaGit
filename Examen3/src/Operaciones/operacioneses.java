@@ -10,9 +10,16 @@ public class operacioneses {
 		this.opB=opB;
 		
 	}
-	//Hola
-	
+	public int resta() {
+		return opA-opB;
+	}
 
+	public int suma() {
+		return opA+opB;
+	}
+	public int multiplcacion() {
+		return opA*opB;
+	}
 	
 	public int getOpA() {
 		return opA;
