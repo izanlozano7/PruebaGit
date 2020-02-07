@@ -10,7 +10,10 @@ public class operacioneses {
 		this.opB=opB;
 		
 	}
-	//Hola
+	
+	public int divisor() {
+		return opA/opB;
+	}
 	
 
 	
