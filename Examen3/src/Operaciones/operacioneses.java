@@ -10,12 +10,24 @@ public class operacioneses {
 		this.opB=opB;
 		
 	}
+
 	
 	public int divisor() {
 		return opA/opB;
 	}
 	
 
+	public int resta() {
+		return opA-opB;
+	}
+
+
+	public int suma() {
+		return opA+opB;
+	}
+	public int multiplcacion() {
+		return opA*opB;
+	}
 	
 	public int getOpA() {
 		return opA;
