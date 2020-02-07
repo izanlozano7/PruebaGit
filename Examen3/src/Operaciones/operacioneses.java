@@ -10,14 +10,9 @@ public class operacioneses {
 		this.opB=opB;
 		
 	}
-	public int resta() {
-		return opA-opB;
-	}
+	//Hola
+	
 
-	public int suma() {
-		
-		return opA+opB;
-	}
 	
 	public int getOpA() {
 		return opA;
